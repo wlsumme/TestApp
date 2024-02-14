@@ -1,0 +1,14 @@
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\bin\Debug\net8.0\testapp.exe
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\bin\Debug\net8.0\testapp.deps.json
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\bin\Debug\net8.0\testapp.runtimeconfig.json
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\bin\Debug\net8.0\testapp.dll
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\bin\Debug\net8.0\testapp.pdb
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\testapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\testapp.AssemblyInfoInputs.cache
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\testapp.AssemblyInfo.cs
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\testapp.csproj.CoreCompileInputs.cache
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\testapp.dll
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\refint\testapp.dll
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\testapp.pdb
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\testapp.genruntimeconfig.cache
+C:\Users\wlsum\OneDrive\Desktop\repos\TestApp\testapp\obj\Debug\net8.0\ref\testapp.dll
